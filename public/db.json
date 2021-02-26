@@ -1,0 +1,180 @@
+{
+	"posts": [{
+			"id": "gpubseiu9th",
+			"text": "Меня зовут Анастасия. Я React-developer\n",
+			"user": {
+				"fullname": "Анастасия",
+				"avatarUrl": "https://sun1-21.userapi.com/impg/QQh8O3aLreAYJd7LA9anm4lYYfjPG29KZC2RKg/35r2rbfNAjI.jpg?size=100x0&quality=96&crop=160,160,1280,1280&sign=4602bdb31e0553905d13ee60a612a832&ava=1"
+			}
+		},
+		{
+			"id": "7vkr5qqfgs",
+			"text": "Solution architect\n",
+			"user": {
+				"fullname": "Анастасия",
+				"avatarUrl": "https://sun1-21.userapi.com/impg/QQh8O3aLreAYJd7LA9anm4lYYfjPG29KZC2RKg/35r2rbfNAjI.jpg?size=100x0&quality=96&crop=160,160,1280,1280&sign=4602bdb31e0553905d13ee60a612a832&ava=1"
+			}
+		}
+	],
+	"messages": [{
+			"id": 0,
+			"text": "Это ж харашо!",
+			"user": {
+				"fullname": "Анастасия",
+				"avatarUrl": "https://sun1-21.userapi.com/impg/QQh8O3aLreAYJd7LA9anm4lYYfjPG29KZC2RKg/35r2rbfNAjI.jpg?size=100x0&quality=96&crop=160,160,1280,1280&sign=4602bdb31e0553905d13ee60a612a832&ava=1"
+			}
+		},
+		{
+			"id": 1,
+			"text": "Oк)",
+			"user": {
+				"fullname": "Никита",
+				"avatarUrl": "https://tipik.ru/wp-content/uploads/2019/10/%D0%9E%D1%81%D0%B5%D0%BD%D0%BD%D1%8F%D1%8F-%D1%84%D0%BE%D1%82%D0%BE%D1%81%D0%B5%D1%81%D1%81%D0%B8%D1%8F-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%B0%D1%80%D0%BD%D1%8F-001.jpg"
+			}
+		},
+		{
+			"id": 2,
+			"text": "Ахаха) обнял-целую",
+			"user": {
+				"fullname": "Илья",
+				"avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0NjoDMYi5fkfgaCol7laOQoanB-yFo5LIvQ&usqp=CAU"
+			}
+		},
+		{
+			"id": "naj28qu07nn",
+			"text": "Обнял-целую!\nxo ",
+			"user": {
+				"fullname": "Анастасия",
+				"avatarUrl": "https://sun1-21.userapi.com/impg/QQh8O3aLreAYJd7LA9anm4lYYfjPG29KZC2RKg/35r2rbfNAjI.jpg?size=100x0&quality=96&crop=160,160,1280,1280&sign=4602bdb31e0553905d13ee60a612a832&ava=1"
+			}
+		}
+	],
+
+	"users": [{
+			"id": 0,
+			"fullname": "Илья",
+			"surname": "Астафьев",
+			"avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0NjoDMYi5fkfgaCol7laOQoanB-yFo5LIvQ&usqp=CAU",
+			"status": "Swift-developer",
+			"year": 24,
+			"job": {
+				"company": "GitLab",
+				"country": "USA"
+			},
+			"adress": {
+				"country": "Russia",
+				"city": "Moscow"
+			},
+			"bestFriend": true,
+			"follow": true
+		},
+		{
+			"id": 1,
+			"fullname": "Никита",
+			"surname": "Калугин",
+			"avatarUrl": "https://tipik.ru/wp-content/uploads/2019/10/%D0%9E%D1%81%D0%B5%D0%BD%D0%BD%D1%8F%D1%8F-%D1%84%D0%BE%D1%82%D0%BE%D1%81%D0%B5%D1%81%D1%81%D0%B8%D1%8F-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%B0%D1%80%D0%BD%D1%8F-001.jpg",
+			"status": "DevOps",
+			"year": 26,
+			"job": {
+				"company": "Avito",
+				"country": "Russia"
+			},
+			"adress": {
+				"country": "Russia",
+				"city": "Nizny Novgorod"
+			},
+			"bestFriend": false,
+			"follow": false
+		},
+		{
+			"id": 2,
+			"fullname": "Жанна",
+			"surname": "Миронова",
+			"avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_3035h_73ZzCBEV11UAYxMbyVoQmABUu9YQ&usqp=CAU",
+			"status": "Dezigner",
+			"year": 26,
+			"job": {
+				"company": "FronZone",
+				"country": "Germany"
+			},
+			"adress": {
+				"country": "Russia",
+				"city": "Tomsk"
+			},
+			"bestFriend": true,
+			"follow": true
+		},
+		{
+			"id": 3,
+			"fullname": "Анна",
+			"surname": "Ковалева",
+			"avatarUrl": "https://bigpicture.ru/wp-content/uploads/2019/11/mixedblood00.jpg",
+			"status": "Manager",
+			"year": 25,
+			"job": {
+				"company": "FronZone",
+				"country": "Germany"
+			},
+			"adress": {
+				"country": "Minsk",
+				"city": "Belarus"
+			},
+			"bestFriend": false,
+			"follow": true
+		},
+		{
+			"id": 4,
+			"fullname": "Артем",
+			"surname": "Давыдов",
+			"avatarUrl": "https://simpledoc.ru/resume/examples/programmist/res/i/photo.jpg",
+			"status": "Solutions Architect",
+			"year": 27,
+			"job": {
+				"company": "GitLab",
+				"country": "USA"
+			},
+			"adress": {
+				"country": "Russia",
+				"city": "Saint-Petersburg"
+			},
+			"bestFriend": true,
+			"follow": true
+		},
+		{
+			"id": 4,
+			"fullname": "Женя",
+			"surname": "Аркадьева",
+			"avatarUrl": "https://st4.depositphotos.com/12985790/22150/i/600/depositphotos_221502442-stock-photo-smiling-attractive-woman-using-laptop.jpg",
+			"status": "Frontend-developer",
+			"year": 23,
+			"job": {
+				"company": "МТС",
+				"country": "Russia"
+			},
+			"adress": {
+				"country": "Russia",
+				"city": "Saint-Petersburg"
+			},
+			"bestFriend": true,
+			"follow": true
+		},
+		{
+			"id": 5,
+			"fullname": "Питон",
+			"surname": "Питонович",
+			"avatarUrl": "https://cs4.pikabu.ru/post_img/big/2016/08/21/5/1471765788160313449.jpg",
+			"status": "Python-developer",
+			"year": 22,
+			"job": {
+				"company": "no",
+				"country": "USA"
+			},
+			"adress": {
+				"country": "Russia",
+				"city": "Saint-Petersburg"
+			},
+			"bestFriend": false,
+			"follow": true
+		}
+	]
+}
